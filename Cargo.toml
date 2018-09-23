@@ -1,0 +1,10 @@
+[package]
+name = "CurseManifestFiller"
+version = "0.1.0"
+authors = ["= <=>"]
+
+[dependencies]
+serde_json = "1.0"
+reqwest = "*"
+lazy_static = "*"
+regex = "*"
